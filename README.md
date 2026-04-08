@@ -1,7 +1,7 @@
 # Monthly-Retail-Sales-Performance-Analysis
 
 This project analyzes retail sales data to evaluate monthly business performance across states, categories, customers, and sales channels, and evaluates how discounts impact the business.
-The dataset contains real-world data issues such as missing values, duplicates, and inconsistent formatting, which were cleaned and transformed using SQL Server before building an interactive Power BI dashboard.
+The dataset contained issues such as missing values, duplicates, and inconsistent formatting, which were cleaned and transformed in SQL Server before building an interactive Power BI dashboard.
 
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c49dca62-0e65-4053-b47c-f149c57e36d6" />
