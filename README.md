@@ -4,7 +4,7 @@ This project analyzes retail sales data to evaluate monthly business performance
 The dataset contains real-world data issues such as missing values, duplicates, and inconsistent formatting, which were cleaned and transformed using SQL Server before building an interactive Power BI dashboard.
 
 
-<img width="100" height="700" alt="image" src="https://github.com/user-attachments/assets/c49dca62-0e65-4053-b47c-f149c57e36d6" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c49dca62-0e65-4053-b47c-f149c57e36d6" />
 
 
 
@@ -72,6 +72,9 @@ High discount levels increase orders but reduce revenue per transaction
 
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b5b34469-85fb-4fb6-9181-44dac11985aa" />
+
+
+
 
 <img width="529" height="200" alt="image" src="https://github.com/user-attachments/assets/292bee48-db12-495b-8f82-83489a2b22a1" />
 
