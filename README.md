@@ -3,30 +3,33 @@ This project analyzes retail sales data to evaluate monthly business performance
 The dataset contains real-world data issues such as missing values, duplicates, and inconsistent formatting, which were cleaned and transformed using SQL Server before building an interactive Power BI dashboard.
 
 
+<img width="1448" height="829" alt="image" src="https://github.com/user-attachments/assets/c49dca62-0e65-4053-b47c-f149c57e36d6" />
+
+
 **Business Objectives**
 
 
-Compare monthly revenue performance
+1. Compare monthly revenue performance
 
-Track sales trends and growth over time
+2. Track sales trends and growth over time
 
-Identify top-performing States and categories
+3. Identify top-performing States and categories
 
-Evaluate sales channel effectiveness
+4. Evaluate sales channel effectiveness
 
-Assess the impact of discounts on revenue
+5. Assess the impact of discounts on revenue
 
 
 **Data Preparation (SQL Server, excel and Power Query)**
 
 
-Removed duplicate records using window functions
+1. Removed duplicate records using window functions
 
-Standardized text fields (state, category)
+2. Standardized text fields (state, category)
 
-Fixed null values in both the revenue and quantity columns
+3. Fixed null values in both the revenue and quantity columns
 
-Validated data quality (nulls, negative values, invalid discounts)
+4. Validated data quality (nulls, negative values, invalid discounts)
 
 
 
@@ -54,9 +57,22 @@ Discount impact analysis
 
 Revenue growth is driven by increased order volume, while the average order value is declining
 
+
+<img width="1449" height="120" alt="image" src="https://github.com/user-attachments/assets/59e8d823-de5d-4fc3-bb29-a426e8b5f65c" />
+
+
 High discount levels increase orders but reduce revenue per transaction
 
+<img width="629" height="516" alt="image" src="https://github.com/user-attachments/assets/b5b34469-85fb-4fb6-9181-44dac11985aa" />
+
+<img width="829" height="243" alt="image" src="https://github.com/user-attachments/assets/292bee48-db12-495b-8f82-83489a2b22a1" />
+
+
+
 Certain states underperform despite similar customer activity
+
+<img width="1455" height="402" alt="image" src="https://github.com/user-attachments/assets/38845383-cd47-45b9-bbb5-93b16c743994" />
+
 
 High-performing categories contribute more to total revenue
 
@@ -64,6 +80,7 @@ Sales channels show different strengths (volume vs value)
 
 Customer acquisition is strong, but retention and value optimization need improvement
 
+<img width="1438" height="734" alt="image" src="https://github.com/user-attachments/assets/59865834-b6a0-434d-ab8f-9a39690e3aa0" />
 
 
 **Business Recommendations**
